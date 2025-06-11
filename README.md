@@ -7,7 +7,7 @@ Despite the growing number of pets in need of adoption, many remain in shelters 
 With PetSwipe, adoption can be reimagined with a swipe-based mobile interface. By allowing users to "match" with pets by swiping left (no) or right (yes) and filter based on preferences and location. We help make this adoption process more accessible and effective, providing a more consolidated and engaging platform.
 
 ## User Stories
-### Profile Creation
+*Profile Creation*
 As a user, I want to create a profile so that I can save my user information.
 ### Authentication
 As a user, I want to sign in using an Auth account so that I can access my pet matches across multiple/instances and devices.
